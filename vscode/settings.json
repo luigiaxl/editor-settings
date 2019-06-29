@@ -1,0 +1,30 @@
+// Place your settings in this file to overwrite the default settings
+{
+    // Theme
+    "workbench.colorTheme": "Dracula",
+    "editor.cursorBlinking": "solid",
+    "editor.fontFamily": "Fira Code",
+    "editor.fontSize": 11,
+    "editor.lineHeight": 22,
+
+    "workbench.editor.showTabs": false,
+
+    // The path to a PHP 7+ executable.
+    "php.executablePath": "E:\\development_apps\\open server\\ospanel\\modules\\php\\PHP-7.2-x64\\php.exe",
+    "php.suggest.basic": false,
+
+    // Git
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "git.path": "C:\\Program Files\\Git\\bin\\git.exe",
+
+    "files.trimTrailingWhitespace": true,
+    "terminal.integrated.fontSize": 11,
+    "terminal.integrated.lineHeight": 1.5,
+    "explorer.confirmDelete": false,
+    "git.confirmSync": false,
+    "explorer.autoReveal": false,
+    "html.format.wrapLineLength": 80,
+    "html.format.wrapAttributes": "force-aligned",
+    "window.zoomLevel": 0,
+    "editor.renderWhitespace": "boundary",
+}
